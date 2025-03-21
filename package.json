@@ -1,13 +1,29 @@
 {
-  "name": "Express",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "express",
   "version": "1.0.0",
+  "description": "This is a project to show ExpressJS abilities",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node ./index.js"
   },
-  "keywords": ["JavaScript", "NodeJS", "ExpressJS"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimboo-zrad/Express.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "ExpressJS",
+    "JavaScript"
+  ],
   "author": "Nima Ziaei Rad",
   "license": "MIT",
-  "description": "This is a project to show expressJS abilities"
+  "bugs": {
+    "url": "https://github.com/nimboo-zrad/Express/issues"
+  },
+  "homepage": "https://github.com/nimboo-zrad/Express#readme"
 }
