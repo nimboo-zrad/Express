@@ -1,0 +1,13 @@
+{
+  "name": "Express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": ["JavaScript", "NodeJS", "ExpressJS"],
+  "author": "Nima Ziaei Rad",
+  "license": "MIT",
+  "description": "This is a project to show expressJS abilities"
+}
