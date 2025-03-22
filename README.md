@@ -5,8 +5,8 @@ This repository is provided for learning purposes. and trying different express 
 
 ## Installation & Usage:
 1. Move to your desired directory:    ```bash
-   cd your/desired/directory 
-  ```
+    cd your/desired/directory 
+   ```
 
 2. Clone the repository: 
   ```bash
