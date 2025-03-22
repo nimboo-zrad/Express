@@ -4,8 +4,7 @@
 This repository is provided for learning purposes. and trying different express abilities
 
 ## Installation & Usage:
-1. Move to your desired directory:
-  ```bash
+1. Move to your desired directory:    ```bash
    cd your/desired/directory 
   ```
 
