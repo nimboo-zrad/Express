@@ -10,19 +10,19 @@ This repository is provided for learning purposes. and trying different express 
    ```
 
 2. Clone the repository: 
-  ```bash
-   git clone https://github.com/nimboo-zrad/Express.git
-  ```
+   ```bash
+    git clone https://github.com/nimboo-zrad/Express.git
+   ```
 
 3. Install the required dependecies:
-  ```bash
-    npm Install
-  ```
+   ```bash
+     npm Install
+   ```
 
 4. Run the file you wish using node:
-  ```
-    node desiredFile.js
-  ```
+   ```
+     node desiredFile.js
+   ```
 
 ## License:
 This project is under MIT License.
